@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+                <title> Assignment 2.3 </title>
+                <style>
+                        div {
+                                color: white;
+                                width: 30%;
+                                height: 30px;
+                                padding: 0;
+                                margin: 0;
+                        }
+                        tr {
+                               color: white; 
+                        }
+                        table {
+                                border-spacing: 0;
+                        }
+                        td {
+                               padding-left: 10px;
+                        }
+
+                </style>
+	</head>
+        <body>
+                <table width="30%" border="0">
+                        <tr style="background-color:#5b8bb8">
+                                <td><h3>14.0 VERY ALKALINE</h3></td>
+                        </tr>
+                        <tr style="background-color:#8cadcd">
+                                <td><h3>13.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#9cb9d4">
+                                <td><h3>12.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#adc5db">
+                                <td><h3>11.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#bdd0e2">
+                                <td><h3>10.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#cddce9">
+                                <td><h3>9.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#dee7f0">
+                                <td><h3>8.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#7fbf7f">
+                                <td><h3>7.0 NEUTRAL</h3></td>
+                        </tr>
+                        <tr style="background-color:#fce1e6">
+                                <td><h3>6.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#fbd2d9">
+                                <td><h3>5.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#fac3cd">
+                                <td><h3>4.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#f9b4c0">
+                                <td><h3>3.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#f8a5b4">
+                                <td><h3>2.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#f6879b">
+                                <td><h3>1.0</h3></td>
+                        </tr>
+                        <tr style="background-color:#f46982">
+                                <td><h3>0.0 VERY ACID</h3></td>
+                        </tr>
+                </table>
+        </body>
+</html>
